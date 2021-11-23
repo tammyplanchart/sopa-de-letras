@@ -1,0 +1,7 @@
+__pycache__
+*.csv
+*.pyc
+*.zip
+*.__pycache__
+workspace.code-workspace
+.DS_store
